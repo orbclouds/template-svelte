@@ -25,8 +25,10 @@ A number of live apps have been created using this repository, so you know it'll
 - [Notes](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=606017e208e440587e87d7c4), a note-taking app deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=60661b6092b45e0abe0e055c)
 - [Calendar](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=60601e9708e440587e87d7c7), a calendar app deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=60661c3c92b45e0abe0e055d)
 - [Whiteboard](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=6060212a08e440587e87d7ca), a whiteboard app deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=60661c5892b45e0abe0e055e)
-- [To-Do](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=606be7f8ab35fd6d45a1a589), a whiteboard app deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=606be7dcab35fd6d45a1a588)
-- [Stopwatch](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=606b4f16d416365a7d038766), a whiteboard app deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=606b4f4ad416365a7d038769)
+- [To-Do](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=606be7f8ab35fd6d45a1a589), a to-do list app deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=606be7dcab35fd6d45a1a588)
+- [Stopwatch](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=606b4f16d416365a7d038766), a stopwatch app deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=606b4f4ad416365a7d038769)
+- [JS Editor](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=6075b848bdac4b72e3af4a8f), a JavaScript editor app deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=6075b82ebdac4b72e3af4a8e)
+- [Snake](https://github.orbclouds.com?id=6060168408e440587e87d7c3&to=608ff84ae55ee7035d852363), a snake game deployed [here](https://apps.orbclouds.com?id=6060168408e440587e87d7c3&to=608ff838e55ee7035d852362)
 
 ---
 
